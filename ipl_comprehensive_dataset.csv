@@ -1,0 +1,10 @@
+player_name,city,match_id,batting_avg,batting_sr,wickets,bowling_econ,dots_balls,fours,sixes,catches
+Nitish Kumar Reddy,Hyderabad,1,35.5,145.2,2,8.5,12,3,2,1
+Nitish Kumar Reddy,Chennai,2,28.0,132.0,1,9.2,8,2,1,0
+Hardik Pandya,Ahmedabad,1,40.2,155.0,3,7.8,15,5,4,1
+Hardik Pandya,Mumbai,2,22.5,140.2,2,8.9,10,2,2,1
+Ravindra Jadeja,Chennai,1,30.0,138.5,4,6.5,20,3,1,3
+Ravindra Jadeja,Delhi,2,18.5,125.0,2,7.2,14,1,1,1
+Axar Patel,Delhi,1,25.3,142.0,3,7.0,18,2,2,2
+Rashid Khan,Ahmedabad,1,15.0,180.0,5,6.2,22,1,3,0
+Sunil Narine,Kolkata,1,20.5,165.0,3,7.5,16,2,3,1
